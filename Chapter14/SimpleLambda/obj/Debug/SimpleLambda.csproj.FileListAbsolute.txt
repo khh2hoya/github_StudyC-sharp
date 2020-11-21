@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\Chapter14\SimpleLambda\bin\Debug\SimpleLambda.exe.config
+C:\Users\khh2h\Source\Repos\Chapter14\SimpleLambda\bin\Debug\SimpleLambda.exe
+C:\Users\khh2h\Source\Repos\Chapter14\SimpleLambda\bin\Debug\SimpleLambda.pdb
+C:\Users\khh2h\Source\Repos\Chapter14\SimpleLambda\obj\Debug\SimpleLambda.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\Chapter14\SimpleLambda\obj\Debug\SimpleLambda.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter14\SimpleLambda\obj\Debug\SimpleLambda.exe
+C:\Users\khh2h\Source\Repos\Chapter14\SimpleLambda\obj\Debug\SimpleLambda.pdb

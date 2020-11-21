@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\Chapter15\MinMaxAvg\bin\Debug\MinMaxAvg.exe.config
+C:\Users\khh2h\Source\Repos\Chapter15\MinMaxAvg\bin\Debug\MinMaxAvg.exe
+C:\Users\khh2h\Source\Repos\Chapter15\MinMaxAvg\bin\Debug\MinMaxAvg.pdb
+C:\Users\khh2h\Source\Repos\Chapter15\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter15\MinMaxAvg\obj\Debug\MinMaxAvg.exe
+C:\Users\khh2h\Source\Repos\Chapter15\MinMaxAvg\obj\Debug\MinMaxAvg.pdb

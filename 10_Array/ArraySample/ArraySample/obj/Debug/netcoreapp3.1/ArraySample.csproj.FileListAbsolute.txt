@@ -1,0 +1,13 @@
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.exe
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.deps.json
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.dll
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.pdb
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.dll
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.pdb
+C:\Users\khh2h\Source\Repos\10_Array\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.genruntimeconfig.cache

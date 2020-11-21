@@ -1,0 +1,13 @@
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\bin\Debug\netcoreapp3.1\ThisConstructor2.exe
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\bin\Debug\netcoreapp3.1\ThisConstructor2.deps.json
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\bin\Debug\netcoreapp3.1\ThisConstructor2.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\bin\Debug\netcoreapp3.1\ThisConstructor2.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\bin\Debug\netcoreapp3.1\ThisConstructor2.dll
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\bin\Debug\netcoreapp3.1\ThisConstructor2.pdb
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\obj\Debug\netcoreapp3.1\ThisConstructor2.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\obj\Debug\netcoreapp3.1\ThisConstructor2.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\obj\Debug\netcoreapp3.1\ThisConstructor2.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\obj\Debug\netcoreapp3.1\ThisConstructor2.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\obj\Debug\netcoreapp3.1\ThisConstructor2.dll
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\obj\Debug\netcoreapp3.1\ThisConstructor2.pdb
+C:\Users\khh2h\Source\Repos\7_Class\ThisConstructor2\ThisConstructor2\obj\Debug\netcoreapp3.1\ThisConstructor2.genruntimeconfig.cache

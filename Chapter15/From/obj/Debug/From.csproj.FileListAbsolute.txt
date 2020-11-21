@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\Chapter15\From\bin\Debug\From.exe.config
+C:\Users\khh2h\Source\Repos\Chapter15\From\bin\Debug\From.exe
+C:\Users\khh2h\Source\Repos\Chapter15\From\bin\Debug\From.pdb
+C:\Users\khh2h\Source\Repos\Chapter15\From\obj\Debug\From.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\Chapter15\From\obj\Debug\From.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter15\From\obj\Debug\From.exe
+C:\Users\khh2h\Source\Repos\Chapter15\From\obj\Debug\From.pdb

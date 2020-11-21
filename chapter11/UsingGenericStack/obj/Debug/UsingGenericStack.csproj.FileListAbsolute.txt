@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericStack\bin\Debug\UsingGenericStack.exe.config
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericStack\bin\Debug\UsingGenericStack.exe
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericStack\bin\Debug\UsingGenericStack.pdb
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericStack\obj\Debug\UsingGenericStack.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericStack\obj\Debug\UsingGenericStack.exe
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericStack\obj\Debug\UsingGenericStack.pdb

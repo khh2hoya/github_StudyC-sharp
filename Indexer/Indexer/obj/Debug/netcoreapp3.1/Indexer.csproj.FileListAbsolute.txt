@@ -1,0 +1,12 @@
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\khh2h\Source\Repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache

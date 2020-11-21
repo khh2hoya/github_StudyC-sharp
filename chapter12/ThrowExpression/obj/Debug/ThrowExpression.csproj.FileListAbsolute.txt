@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\chapter12\ThrowExpression\bin\Debug\ThrowExpression.exe.config
+C:\Users\khh2h\Source\Repos\chapter12\ThrowExpression\bin\Debug\ThrowExpression.exe
+C:\Users\khh2h\Source\Repos\chapter12\ThrowExpression\bin\Debug\ThrowExpression.pdb
+C:\Users\khh2h\Source\Repos\chapter12\ThrowExpression\obj\Debug\ThrowExpression.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter12\ThrowExpression\obj\Debug\ThrowExpression.exe
+C:\Users\khh2h\Source\Repos\chapter12\ThrowExpression\obj\Debug\ThrowExpression.pdb

@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\chapter12\MyException\bin\Debug\MyException.exe.config
+C:\Users\khh2h\Source\Repos\chapter12\MyException\bin\Debug\MyException.exe
+C:\Users\khh2h\Source\Repos\chapter12\MyException\bin\Debug\MyException.pdb
+C:\Users\khh2h\Source\Repos\chapter12\MyException\obj\Debug\MyException.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter12\MyException\obj\Debug\MyException.exe
+C:\Users\khh2h\Source\Repos\chapter12\MyException\obj\Debug\MyException.pdb

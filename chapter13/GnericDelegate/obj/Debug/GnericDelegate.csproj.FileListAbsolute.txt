@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\chapter13\GnericDelegate\obj\Debug\GnericDelegate.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\chapter13\GnericDelegate\obj\Debug\GnericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter13\GnericDelegate\bin\Debug\GnericDelegate.exe.config
+C:\Users\khh2h\Source\Repos\chapter13\GnericDelegate\bin\Debug\GnericDelegate.exe
+C:\Users\khh2h\Source\Repos\chapter13\GnericDelegate\bin\Debug\GnericDelegate.pdb
+C:\Users\khh2h\Source\Repos\chapter13\GnericDelegate\obj\Debug\GnericDelegate.exe
+C:\Users\khh2h\Source\Repos\chapter13\GnericDelegate\obj\Debug\GnericDelegate.pdb

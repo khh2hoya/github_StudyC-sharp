@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\chapter11\CopyingArray\bin\Debug\CopyingArray.exe.config
+C:\Users\khh2h\Source\Repos\chapter11\CopyingArray\bin\Debug\CopyingArray.exe
+C:\Users\khh2h\Source\Repos\chapter11\CopyingArray\bin\Debug\CopyingArray.pdb
+C:\Users\khh2h\Source\Repos\chapter11\CopyingArray\obj\Debug\CopyingArray.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\chapter11\CopyingArray\obj\Debug\CopyingArray.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter11\CopyingArray\obj\Debug\CopyingArray.exe
+C:\Users\khh2h\Source\Repos\chapter11\CopyingArray\obj\Debug\CopyingArray.pdb

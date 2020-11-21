@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\Chapter14\FuncTest\bin\Debug\FuncTest.exe.config
+C:\Users\khh2h\Source\Repos\Chapter14\FuncTest\bin\Debug\FuncTest.exe
+C:\Users\khh2h\Source\Repos\Chapter14\FuncTest\bin\Debug\FuncTest.pdb
+C:\Users\khh2h\Source\Repos\Chapter14\FuncTest\obj\Debug\FuncTest.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter14\FuncTest\obj\Debug\FuncTest.exe
+C:\Users\khh2h\Source\Repos\Chapter14\FuncTest\obj\Debug\FuncTest.pdb

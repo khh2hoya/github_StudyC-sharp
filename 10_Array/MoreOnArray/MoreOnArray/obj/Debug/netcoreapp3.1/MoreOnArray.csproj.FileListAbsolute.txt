@@ -1,0 +1,13 @@
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.exe
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.deps.json
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.dll
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.pdb
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.dll
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.pdb
+C:\Users\khh2h\Source\Repos\10_Array\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.genruntimeconfig.cache

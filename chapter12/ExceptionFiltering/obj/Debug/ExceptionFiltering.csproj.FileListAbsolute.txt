@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\chapter12\ExceptionFiltering\bin\Debug\ExceptionFiltering.exe.config
+C:\Users\khh2h\Source\Repos\chapter12\ExceptionFiltering\bin\Debug\ExceptionFiltering.exe
+C:\Users\khh2h\Source\Repos\chapter12\ExceptionFiltering\bin\Debug\ExceptionFiltering.pdb
+C:\Users\khh2h\Source\Repos\chapter12\ExceptionFiltering\obj\Debug\ExceptionFiltering.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\chapter12\ExceptionFiltering\obj\Debug\ExceptionFiltering.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter12\ExceptionFiltering\obj\Debug\ExceptionFiltering.exe
+C:\Users\khh2h\Source\Repos\chapter12\ExceptionFiltering\obj\Debug\ExceptionFiltering.pdb

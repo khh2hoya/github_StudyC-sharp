@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\Chapter14\ActionTest\bin\Debug\ActionTest.exe.config
+C:\Users\khh2h\Source\Repos\Chapter14\ActionTest\bin\Debug\ActionTest.exe
+C:\Users\khh2h\Source\Repos\Chapter14\ActionTest\bin\Debug\ActionTest.pdb
+C:\Users\khh2h\Source\Repos\Chapter14\ActionTest\obj\Debug\ActionTest.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter14\ActionTest\obj\Debug\ActionTest.exe
+C:\Users\khh2h\Source\Repos\Chapter14\ActionTest\obj\Debug\ActionTest.pdb

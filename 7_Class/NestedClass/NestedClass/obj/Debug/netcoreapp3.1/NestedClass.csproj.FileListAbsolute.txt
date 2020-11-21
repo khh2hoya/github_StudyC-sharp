@@ -1,0 +1,13 @@
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.exe
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.deps.json
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.dll
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.pdb
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.dll
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.pdb
+C:\Users\khh2h\Source\Repos\7_Class\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.genruntimeconfig.cache

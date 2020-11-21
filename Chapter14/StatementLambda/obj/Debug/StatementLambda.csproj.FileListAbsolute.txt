@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\Chapter14\StatementLambda\bin\Debug\StatementLambda.exe.config
+C:\Users\khh2h\Source\Repos\Chapter14\StatementLambda\bin\Debug\StatementLambda.exe
+C:\Users\khh2h\Source\Repos\Chapter14\StatementLambda\bin\Debug\StatementLambda.pdb
+C:\Users\khh2h\Source\Repos\Chapter14\StatementLambda\obj\Debug\StatementLambda.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter14\StatementLambda\obj\Debug\StatementLambda.exe
+C:\Users\khh2h\Source\Repos\Chapter14\StatementLambda\obj\Debug\StatementLambda.pdb

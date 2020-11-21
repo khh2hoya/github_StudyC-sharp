@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\chapter13\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\khh2h\Source\Repos\chapter13\EventTest\bin\Debug\EventTest.exe
+C:\Users\khh2h\Source\Repos\chapter13\EventTest\bin\Debug\EventTest.pdb
+C:\Users\khh2h\Source\Repos\chapter13\EventTest\obj\Debug\EventTest.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\chapter13\EventTest\obj\Debug\EventTest.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter13\EventTest\obj\Debug\EventTest.exe
+C:\Users\khh2h\Source\Repos\chapter13\EventTest\obj\Debug\EventTest.pdb

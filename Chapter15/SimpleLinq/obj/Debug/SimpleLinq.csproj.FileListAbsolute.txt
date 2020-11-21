@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq\bin\Debug\SimpleLinq.exe.config
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq\bin\Debug\SimpleLinq.exe
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq\bin\Debug\SimpleLinq.pdb
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq\obj\Debug\SimpleLinq.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq\obj\Debug\SimpleLinq.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq\obj\Debug\SimpleLinq.exe
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq\obj\Debug\SimpleLinq.pdb

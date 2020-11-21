@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq2\bin\Debug\SimpleLinq2.exe.config
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq2\bin\Debug\SimpleLinq2.exe
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq2\bin\Debug\SimpleLinq2.pdb
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq2\obj\Debug\SimpleLinq2.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq2\obj\Debug\SimpleLinq2.exe
+C:\Users\khh2h\Source\Repos\Chapter15\SimpleLinq2\obj\Debug\SimpleLinq2.pdb

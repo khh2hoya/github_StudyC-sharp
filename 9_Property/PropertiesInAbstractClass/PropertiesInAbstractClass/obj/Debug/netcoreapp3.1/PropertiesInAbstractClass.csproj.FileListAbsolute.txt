@@ -1,0 +1,13 @@
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.exe
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.deps.json
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.dll
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.pdb
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.dll
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.pdb
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.genruntimeconfig.cache

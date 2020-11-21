@@ -1,0 +1,13 @@
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.exe
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.deps.json
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.dll
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.pdb
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.dll
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.pdb
+C:\Users\khh2h\Source\Repos\10_Array\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionTreeViaLambda\bin\Debug\ExpressionTreeViaLambda.exe.config
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionTreeViaLambda\bin\Debug\ExpressionTreeViaLambda.exe
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionTreeViaLambda\bin\Debug\ExpressionTreeViaLambda.pdb
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionTreeViaLambda\obj\Debug\ExpressionTreeViaLambda.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionTreeViaLambda\obj\Debug\ExpressionTreeViaLambda.exe
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionTreeViaLambda\obj\Debug\ExpressionTreeViaLambda.pdb

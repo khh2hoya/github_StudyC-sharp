@@ -1,0 +1,13 @@
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\bin\Debug\netcoreapp3.1\Property.exe
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\bin\Debug\netcoreapp3.1\Property.deps.json
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\bin\Debug\netcoreapp3.1\Property.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\bin\Debug\netcoreapp3.1\Property.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\bin\Debug\netcoreapp3.1\Property.dll
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\bin\Debug\netcoreapp3.1\Property.pdb
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\obj\Debug\netcoreapp3.1\Property.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\obj\Debug\netcoreapp3.1\Property.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\obj\Debug\netcoreapp3.1\Property.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\obj\Debug\netcoreapp3.1\Property.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\obj\Debug\netcoreapp3.1\Property.dll
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\obj\Debug\netcoreapp3.1\Property.pdb
+C:\Users\khh2h\Source\Repos\9_Property\Property\Property\obj\Debug\netcoreapp3.1\Property.genruntimeconfig.cache

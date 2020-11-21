@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLambda", "SimpleLambda\SimpleLambda.csproj", "{0F7BDBBC-60BD-465B-B33D-035AA6662C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatementLambda", "StatementLambda\StatementLambda.csproj", "{9FC750AC-7452-4ED6-BB48-1548459B016A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncTest", "FuncTest\FuncTest.csproj", "{1276EC2A-A2DA-443A-8A98-C131037198A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionTest", "ActionTest\ActionTest.csproj", "{4B7F04EB-B6EB-4759-8B40-1A8F4AD42E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingExpressionTree", "UsingExpressionTree\UsingExpressionTree.csproj", "{5422431B-E6E5-4EAA-B61F-9839426E1F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTreeViaLambda", "ExpressionTreeViaLambda\ExpressionTreeViaLambda.csproj", "{86E05552-FAF9-4C8E-89A3-9E80635885DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionBodiedMember", "ExpressionBodiedMember\ExpressionBodiedMember.csproj", "{A12F3BE1-8D45-43C3-8B43-5256840AD737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F7BDBBC-60BD-465B-B33D-035AA6662C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7BDBBC-60BD-465B-B33D-035AA6662C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7BDBBC-60BD-465B-B33D-035AA6662C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7BDBBC-60BD-465B-B33D-035AA6662C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC750AC-7452-4ED6-BB48-1548459B016A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC750AC-7452-4ED6-BB48-1548459B016A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC750AC-7452-4ED6-BB48-1548459B016A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC750AC-7452-4ED6-BB48-1548459B016A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1276EC2A-A2DA-443A-8A98-C131037198A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1276EC2A-A2DA-443A-8A98-C131037198A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1276EC2A-A2DA-443A-8A98-C131037198A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1276EC2A-A2DA-443A-8A98-C131037198A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7F04EB-B6EB-4759-8B40-1A8F4AD42E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7F04EB-B6EB-4759-8B40-1A8F4AD42E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7F04EB-B6EB-4759-8B40-1A8F4AD42E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7F04EB-B6EB-4759-8B40-1A8F4AD42E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5422431B-E6E5-4EAA-B61F-9839426E1F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5422431B-E6E5-4EAA-B61F-9839426E1F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5422431B-E6E5-4EAA-B61F-9839426E1F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5422431B-E6E5-4EAA-B61F-9839426E1F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E05552-FAF9-4C8E-89A3-9E80635885DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E05552-FAF9-4C8E-89A3-9E80635885DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E05552-FAF9-4C8E-89A3-9E80635885DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E05552-FAF9-4C8E-89A3-9E80635885DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12F3BE1-8D45-43C3-8B43-5256840AD737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12F3BE1-8D45-43C3-8B43-5256840AD737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12F3BE1-8D45-43C3-8B43-5256840AD737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12F3BE1-8D45-43C3-8B43-5256840AD737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A2D376F-4797-438D-9012-89DBE7A985A2}
+	EndGlobalSection
+EndGlobal

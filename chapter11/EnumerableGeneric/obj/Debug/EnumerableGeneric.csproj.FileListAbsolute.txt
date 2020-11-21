@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\chapter11\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe.config
+C:\Users\khh2h\Source\Repos\chapter11\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe
+C:\Users\khh2h\Source\Repos\chapter11\EnumerableGeneric\bin\Debug\EnumerableGeneric.pdb
+C:\Users\khh2h\Source\Repos\chapter11\EnumerableGeneric\obj\Debug\EnumerableGeneric.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\chapter11\EnumerableGeneric\obj\Debug\EnumerableGeneric.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter11\EnumerableGeneric\obj\Debug\EnumerableGeneric.exe
+C:\Users\khh2h\Source\Repos\chapter11\EnumerableGeneric\obj\Debug\EnumerableGeneric.pdb

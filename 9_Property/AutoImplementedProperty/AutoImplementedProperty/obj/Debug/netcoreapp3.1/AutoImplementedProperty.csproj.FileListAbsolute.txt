@@ -1,0 +1,12 @@
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp3.1\AutoImplementedProperty.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp3.1\AutoImplementedProperty.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp3.1\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp3.1\AutoImplementedProperty.exe
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp3.1\AutoImplementedProperty.deps.json
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp3.1\AutoImplementedProperty.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp3.1\AutoImplementedProperty.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp3.1\AutoImplementedProperty.dll
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp3.1\AutoImplementedProperty.pdb
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp3.1\AutoImplementedProperty.dll
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp3.1\AutoImplementedProperty.pdb
+C:\Users\khh2h\Source\Repos\9_Property\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp3.1\AutoImplementedProperty.genruntimeconfig.cache

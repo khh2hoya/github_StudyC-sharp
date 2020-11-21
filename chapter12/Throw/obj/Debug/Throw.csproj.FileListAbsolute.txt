@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\chapter12\Throw\bin\Debug\Throw.exe.config
+C:\Users\khh2h\Source\Repos\chapter12\Throw\bin\Debug\Throw.exe
+C:\Users\khh2h\Source\Repos\chapter12\Throw\bin\Debug\Throw.pdb
+C:\Users\khh2h\Source\Repos\chapter12\Throw\obj\Debug\Throw.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\chapter12\Throw\obj\Debug\Throw.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter12\Throw\obj\Debug\Throw.exe
+C:\Users\khh2h\Source\Repos\chapter12\Throw\obj\Debug\Throw.pdb

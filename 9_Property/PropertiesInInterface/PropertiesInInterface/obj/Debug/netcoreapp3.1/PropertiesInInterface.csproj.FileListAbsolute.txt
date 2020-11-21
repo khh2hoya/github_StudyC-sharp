@@ -1,0 +1,12 @@
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.exe
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.deps.json
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.dll
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.pdb
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.dll
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.pdb
+C:\Users\khh2h\Source\Repos\9_Property\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodeHiding", "MethodeHiding\MethodeHiding.csproj", "{A68ECCB7-8319-460E-8F0A-FC29DA457730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68ECCB7-8319-460E-8F0A-FC29DA457730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68ECCB7-8319-460E-8F0A-FC29DA457730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68ECCB7-8319-460E-8F0A-FC29DA457730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68ECCB7-8319-460E-8F0A-FC29DA457730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B882E75-C7A8-4601-AF7F-4CA873CCCE55}
+	EndGlobalSection
+EndGlobal

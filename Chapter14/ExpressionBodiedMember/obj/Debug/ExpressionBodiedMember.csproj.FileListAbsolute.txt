@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.exe.config
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.exe
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.pdb
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.exe
+C:\Users\khh2h\Source\Repos\Chapter14\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.pdb

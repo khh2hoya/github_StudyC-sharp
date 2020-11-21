@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\chapter11\UsingDictionary\bin\Debug\UsingDictionary.exe.config
+C:\Users\khh2h\Source\Repos\chapter11\UsingDictionary\bin\Debug\UsingDictionary.exe
+C:\Users\khh2h\Source\Repos\chapter11\UsingDictionary\bin\Debug\UsingDictionary.pdb
+C:\Users\khh2h\Source\Repos\chapter11\UsingDictionary\obj\Debug\UsingDictionary.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter11\UsingDictionary\obj\Debug\UsingDictionary.exe
+C:\Users\khh2h\Source\Repos\chapter11\UsingDictionary\obj\Debug\UsingDictionary.pdb

@@ -1,0 +1,12 @@
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.exe
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.deps.json
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.dll
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.pdb
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.dll
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.pdb
+C:\Users\khh2h\Source\Repos\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\khh2h\Source\Repos\Yield\Yield\bin\Debug\netcoreapp3.1\Yield.exe
+C:\Users\khh2h\Source\Repos\Yield\Yield\bin\Debug\netcoreapp3.1\Yield.deps.json
+C:\Users\khh2h\Source\Repos\Yield\Yield\bin\Debug\netcoreapp3.1\Yield.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\Yield\Yield\bin\Debug\netcoreapp3.1\Yield.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\Yield\Yield\bin\Debug\netcoreapp3.1\Yield.dll
+C:\Users\khh2h\Source\Repos\Yield\Yield\bin\Debug\netcoreapp3.1\Yield.pdb
+C:\Users\khh2h\Source\Repos\Yield\Yield\obj\Debug\netcoreapp3.1\Yield.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\Yield\Yield\obj\Debug\netcoreapp3.1\Yield.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\Yield\Yield\obj\Debug\netcoreapp3.1\Yield.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\Yield\Yield\obj\Debug\netcoreapp3.1\Yield.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Yield\Yield\obj\Debug\netcoreapp3.1\Yield.dll
+C:\Users\khh2h\Source\Repos\Yield\Yield\obj\Debug\netcoreapp3.1\Yield.pdb
+C:\Users\khh2h\Source\Repos\Yield\Yield\obj\Debug\netcoreapp3.1\Yield.genruntimeconfig.cache

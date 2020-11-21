@@ -1,0 +1,12 @@
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.exe
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.deps.json
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.dll
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.pdb
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.dll
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.pdb
+C:\Users\khh2h\Source\Repos\10_Array\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.genruntimeconfig.cache

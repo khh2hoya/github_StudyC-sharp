@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gcfl+ZzVWfNRoaIc+saTkSqWUdly5WBtIlFR4HCMENsOhM5Y2kulj5LJfmK7a8bsIx0lOM+UkSp9TEiQRGVi0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khh2h\\Source\\Repos\\7_Class\\ExtensionMethod\\ExtensionMethod\\ExtensionMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khh2h\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

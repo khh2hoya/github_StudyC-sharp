@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericList\bin\Debug\UsingGenericList.exe.config
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericList\bin\Debug\UsingGenericList.exe
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericList\bin\Debug\UsingGenericList.pdb
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericList\obj\Debug\UsingGenericList.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericList\obj\Debug\UsingGenericList.exe
+C:\Users\khh2h\Source\Repos\chapter11\UsingGenericList\obj\Debug\UsingGenericList.pdb

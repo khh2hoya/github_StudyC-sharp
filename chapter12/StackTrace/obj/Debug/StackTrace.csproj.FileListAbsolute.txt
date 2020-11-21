@@ -1,0 +1,6 @@
+C:\Users\khh2h\Source\Repos\chapter12\StackTrace\bin\Debug\StackTrace.exe.config
+C:\Users\khh2h\Source\Repos\chapter12\StackTrace\bin\Debug\StackTrace.exe
+C:\Users\khh2h\Source\Repos\chapter12\StackTrace\bin\Debug\StackTrace.pdb
+C:\Users\khh2h\Source\Repos\chapter12\StackTrace\obj\Debug\StackTrace.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter12\StackTrace\obj\Debug\StackTrace.exe
+C:\Users\khh2h\Source\Repos\chapter12\StackTrace\obj\Debug\StackTrace.pdb

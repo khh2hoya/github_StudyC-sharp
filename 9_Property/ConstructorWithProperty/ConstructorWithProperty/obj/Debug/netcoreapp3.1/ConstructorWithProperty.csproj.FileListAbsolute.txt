@@ -1,0 +1,13 @@
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.exe
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.deps.json
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.dll
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.pdb
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.dll
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.pdb
+C:\Users\khh2h\Source\Repos\9_Property\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.genruntimeconfig.cache

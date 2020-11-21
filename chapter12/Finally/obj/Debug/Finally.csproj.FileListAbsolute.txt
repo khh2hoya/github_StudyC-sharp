@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\chapter12\Finally\bin\Debug\Finally.exe.config
+C:\Users\khh2h\Source\Repos\chapter12\Finally\bin\Debug\Finally.exe
+C:\Users\khh2h\Source\Repos\chapter12\Finally\bin\Debug\Finally.pdb
+C:\Users\khh2h\Source\Repos\chapter12\Finally\obj\Debug\Finally.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\chapter12\Finally\obj\Debug\Finally.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\chapter12\Finally\obj\Debug\Finally.exe
+C:\Users\khh2h\Source\Repos\chapter12\Finally\obj\Debug\Finally.pdb

@@ -1,0 +1,12 @@
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.exe
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.deps.json
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.runtimeconfig.json
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.runtimeconfig.dev.json
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.dll
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.pdb
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.AssemblyInfoInputs.cache
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.AssemblyInfo.cs
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.dll
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.pdb
+C:\Users\khh2h\Source\Repos\8_Interface\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.genruntimeconfig.cache

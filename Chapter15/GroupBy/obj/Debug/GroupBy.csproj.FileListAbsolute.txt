@@ -1,0 +1,7 @@
+C:\Users\khh2h\Source\Repos\Chapter15\GroupBy\bin\Debug\GroupBy.exe.config
+C:\Users\khh2h\Source\Repos\Chapter15\GroupBy\bin\Debug\GroupBy.exe
+C:\Users\khh2h\Source\Repos\Chapter15\GroupBy\bin\Debug\GroupBy.pdb
+C:\Users\khh2h\Source\Repos\Chapter15\GroupBy\obj\Debug\GroupBy.csprojAssemblyReference.cache
+C:\Users\khh2h\Source\Repos\Chapter15\GroupBy\obj\Debug\GroupBy.csproj.CoreCompileInputs.cache
+C:\Users\khh2h\Source\Repos\Chapter15\GroupBy\obj\Debug\GroupBy.exe
+C:\Users\khh2h\Source\Repos\Chapter15\GroupBy\obj\Debug\GroupBy.pdb
