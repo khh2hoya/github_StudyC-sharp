@@ -1,7 +1,0 @@
-C:\Users\khh2h\Source\Repos\Chapter15\FromFrom\bin\Debug\FromFrom.exe.config
-C:\Users\khh2h\Source\Repos\Chapter15\FromFrom\bin\Debug\FromFrom.exe
-C:\Users\khh2h\Source\Repos\Chapter15\FromFrom\bin\Debug\FromFrom.pdb
-C:\Users\khh2h\Source\Repos\Chapter15\FromFrom\obj\Debug\FromFrom.csprojAssemblyReference.cache
-C:\Users\khh2h\Source\Repos\Chapter15\FromFrom\obj\Debug\FromFrom.csproj.CoreCompileInputs.cache
-C:\Users\khh2h\Source\Repos\Chapter15\FromFrom\obj\Debug\FromFrom.exe
-C:\Users\khh2h\Source\Repos\Chapter15\FromFrom\obj\Debug\FromFrom.pdb
